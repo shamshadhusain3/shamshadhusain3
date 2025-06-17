@@ -140,7 +140,7 @@ const shamshad = {
 <h3 align="center">🍎 3D Apple Promo Website</h3>
 <div align="center">  
 <a href="https://main--heroic-strudel-af4df6.netlify.app/" target="_blank">
-<img src="https://shamshad.ermks.in/images/3d_apple_promo.png" alt="3D Apple Website"/>
+
 </a>
 <br><br>
 <p><strong>🎨 Immersive 3D Experience</strong></p>
@@ -152,7 +152,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 <a href="https://main--heroic-strudel-af4df6.netlify.app/" target="_blank">
-<img src="https://shamshad.ermks.in/images/3d_apple_promo.png" alt="Live Demo"/>
+
 </a>
 </div>
 </td>
@@ -160,7 +160,6 @@ const shamshad = {
 <h3 align="center">🤖 AI Trip Planner</h3>
 <div align="center">  
 <a href="https://ai-trip-planner-alpha.vercel.app/" target="_blank">
-<img src="https://shamshad.ermks.in/images/AI_trip_planner.png" alt="AI Trip Planner"/>
 </a>
 <br><br>
 <p><strong>🧠 AI-Powered Travel Planning</strong></p>
@@ -181,7 +180,6 @@ const shamshad = {
 <h3 align="center">📋 TaskFlow</h3>
 <div align="center">  
 <a href="https://taskflow03.netlify.app/" target="_blank">
-<img src="https://shamshad.ermks.in/images/taskflow.png" alt="TaskFlow"/>
 </a>
 <br><br>
 <p><strong>⚡ Advanced Task Management</strong></p>
@@ -200,7 +198,6 @@ const shamshad = {
 <h3 align="center">🎭 Ochi Website Clone</h3>
 <div align="center">  
 <a href="https://ochi-react-animated.netlify.app/" target="_blank">
-<img src="https://shamshad.ermks.in/images/ochi_clone.png" alt="Ochi Clone"/>
 </a>
 <br><br>
 <p><strong>🎨 Premium Animation Experience</strong></p>
@@ -221,7 +218,6 @@ const shamshad = {
 <h3 align="center">📍 Real-Time Location Tracker</h3>
 <div align="center">  
 <a href="https://realtime-tracker-rck4.onrender.com/" target="_blank">
-<img src="https://shamshad.ermks.in/images/location_tracker.png" alt="Location Tracker"/>
 </a>
 <br><br>
 <p><strong>🌍 Live Location Monitoring</strong></p>
@@ -255,7 +251,6 @@ const shamshad = {
 <div align="center">
 <h4>🌤️ Weather App</h4>
 <a href="https://shamshadhusain3.github.io/Weather-App/" target="_blank">
-<img src="https://img.shields.io/badge/Check%20Weather-2196F3?style=for-the-badge&logo=weather&logoColor=white" alt="Weather App"/>
 </a>
 </div>
 </td>
@@ -263,7 +258,6 @@ const shamshad = {
 <div align="center">
 <h4>🐍 Snake Game</h4>
 <a href="https://shamshadhusain3.github.io/snakeGame/" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Snake-FF9800?style=for-the-badge&logo=gamepad&logoColor=white" alt="Snake Game"/>
 </a>
 </div>
 </td>
