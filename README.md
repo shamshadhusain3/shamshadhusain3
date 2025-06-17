@@ -44,15 +44,15 @@ const shamshad = {
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-&lt;!-- Skills Section -->
+
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Tools
 
-&lt;!-- Frontend Technologies -->
+
 <details open>
 <summary><b>🎨 Frontend Development</b></summary>
 <br>
@@ -70,7 +70,7 @@ const shamshad = {
 </p>
 </details>
 
-&lt;!-- Backend Technologies -->
+
 <details open>
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
@@ -85,7 +85,7 @@ const shamshad = {
 </p>
 </details>
 
-&lt;!-- AI & Database -->
+
 <details open>
 <summary><b>🤖 AI & Databases</b></summary>
 <br>
@@ -102,34 +102,34 @@ const shamshad = {
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-&lt;!-- GitHub Stats Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-&lt;!-- Working Stats Cards -->
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shamshadhusain3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshadhusain3&layout=compact&theme=tokyonight&hide_border=true&hide=python,jupyter%20notebook&langs_count=8" alt="Top Languages"/>
 </p>
 
-&lt;!-- Working Streak Stats -->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shamshadhusain3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-&lt;!-- Working Activity Graph -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshadhusain3&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-&lt;!-- 🚀 FEATURED PROJECTS SECTION - WITH YOUR REAL PROJECTS! -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
@@ -152,7 +152,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 <a href="https://main--heroic-strudel-af4df6.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+<img src="https://shamshad.ermks.in/images/3d_apple_promo.png" alt="Live Demo"/>
 </a>
 </div>
 </td>
@@ -171,7 +171,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 <a href="https://ai-trip-planner-alpha.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+<img src="https://shamshad.ermks.in/images/AI_trip_planner.png" alt="Live Demo"/>
 </a>
 </div>
 </td>
@@ -181,7 +181,7 @@ const shamshad = {
 <h3 align="center">📋 TaskFlow</h3>
 <div align="center">  
 <a href="https://taskflow03.netlify.app/" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=TaskFlow+Management" alt="TaskFlow"/>
+<img src="https://shamshad.ermks.in/images/taskflow.png" alt="TaskFlow"/>
 </a>
 <br><br>
 <p><strong>⚡ Advanced Task Management</strong></p>
@@ -211,7 +211,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
 <a href="https://ochi-react-animated.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+<img src="https://shamshad.ermks.in/images/ochi_clone.png" alt="Live Demo"/>
 </a>
 </div>
 </td>
@@ -221,7 +221,7 @@ const shamshad = {
 <h3 align="center">📍 Real-Time Location Tracker</h3>
 <div align="center">  
 <a href="https://realtime-tracker-rck4.onrender.com/" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Location+Tracker" alt="Location Tracker"/>
+<img src="https://shamshad.ermks.in/images/location_tracker.png" alt="Location Tracker"/>
 </a>
 <br><br>
 <p><strong>🌍 Live Location Monitoring</strong></p>
@@ -236,25 +236,7 @@ const shamshad = {
 </a>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">🚗 Car Service Website</h3>
-<div align="center">  
-<a href="https://dj-carzsolutions.onrender.com" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Car+Service" alt="Car Service"/>
-</a>
-<br><br>
-<p><strong>🔧 Full-Stack Service Platform</strong></p>
-<p>A comprehensive car service website with appointment booking, built with Node.js, Express, and modern web technologies.</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-<a href="https://dj-carzsolutions.onrender.com" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-</a>
-</div>
-</td>
+
 </tr>
 </table>
 
@@ -297,10 +279,10 @@ const shamshad = {
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-&lt;!-- Trophies Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Trophies
@@ -309,7 +291,7 @@ const shamshad = {
 
 </div>
 
-&lt;!-- Current Focus Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I'm Up To
@@ -336,7 +318,7 @@ mindmap
 
 </div>
 
-&lt;!-- Connect Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
@@ -358,7 +340,7 @@ mindmap
 
 </div>
 
-&lt;!-- Fun Facts Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Fun Facts
@@ -373,7 +355,7 @@ mindmap
 ### 💡 Quick Facts About Me:
 
 - 🔭 Currently working on **3D web experiences & AI applications**
-- 🌱 Learning **Advanced Three.js & WebGL shaders**
+- 🌱 Learning **Advanced Three.js & AI integration**
 - 👯 Looking to collaborate on **innovative 3D projects**
 - 🤔 Ask me about **React, Three.js, GSAP, AI integration**
 - ⚡ Fun fact: **I can create 3D magic with just JavaScript! ✨**
@@ -386,7 +368,7 @@ mindmap
 
 </div>
 
-&lt;!-- Quote Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35"> Random Dev Quote
@@ -395,7 +377,7 @@ mindmap
 
 </div>
 
-&lt;!-- Footer -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
