@@ -152,6 +152,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 <a href="https://main--heroic-strudel-af4df6.netlify.app/" target="_blank">
+<img src="https://shamshad.ermks.in/images/3d_apple_promo.png" alt="3d_apple_promo"/>
 
 </a>
 </div>
@@ -243,7 +244,6 @@ const shamshad = {
 <div align="center">
 <h4>🎲 React Dice Game</h4>
 <a href="https://667aa2801005b8007ee5fe87--timely-pothos-2b1703.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Game-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
 </a>
 </div>
 </td>
