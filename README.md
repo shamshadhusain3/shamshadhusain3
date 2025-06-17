@@ -167,7 +167,7 @@ mindmap
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &lt;!-- 🚀 FEATURED PROJECTS SECTION - RESTORED! -->
@@ -178,10 +178,10 @@ mindmap
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 Awesome Web App</h3>
+<h3 align="center">🚀 Awesome 3D Apple Website</h3>
 <div align="center">  
-<a href="https://github.com/shamshadhusain3/your-project-name" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shamshadhusain3&repo=your-project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project One"/>
+<a href="https://github.com/shamshadhusain3/3D-Apple-website" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shamshadhusain3&repo=3D-Apple-website&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project One"/>
 </a>
 <br><br>
 <p>
@@ -191,25 +191,12 @@ mindmap
 </p>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">🌟 Mobile App</h3>
-<div align="center">  
-<a href="https://github.com/shamshadhusain3/your-mobile-app" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shamshadhusain3&repo=your-mobile-app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project Two"/>
-</a>
-<br><br>
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-</div>
-</td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">💼 E-Commerce Site</h3>
+<h3 align="center">![alt text](image.png) Ai Resume Builder</h3>
 <div align="center">  
-<a href="https://github.com/shamshadhusain3/ecommerce-project" target="_blank">
+<a href="https://github.com/shamshadhusain3/ai-resume-builder" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shamshadhusain3&repo=ecommerce-project&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="E-commerce Project"/>
 </a>
 <br><br>
@@ -233,6 +220,19 @@ mindmap
 </p>
 </div>
 </td>
+<td width="50%">
+<h3 align="center">🎨 Portfolio Website</h3>
+<div align="center">  
+<a href="https://github.com/shamshadhusain3/Portfolio" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shamshadhusain3&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+</div>
+</td>
 </tr>
 </table>
 
@@ -245,10 +245,10 @@ mindmap
 
 </div>
 
-&lt;!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-&lt;!-- Connect Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
@@ -273,7 +273,7 @@ mindmap
 
 </div>
 
-&lt;!-- Fun Facts Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Fun Facts
@@ -301,7 +301,7 @@ mindmap
 
 </div>
 
-&lt;!-- Quote Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35"> Random Dev Quote
@@ -310,7 +310,7 @@ mindmap
 
 </div>
 
-&lt;!-- Snake Animation -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Contribution Snake
@@ -323,7 +323,7 @@ mindmap
 
 </div>
 
-&lt;!-- Support Section -->
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="35"> Support My Work
@@ -336,7 +336,7 @@ mindmap
 
 </div>
 
-&lt;!-- Footer -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
