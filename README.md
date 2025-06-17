@@ -140,7 +140,7 @@ const shamshad = {
 <h3 align="center">🍎 3D Apple Promo Website</h3>
 <div align="center">  
 <a href="https://main--heroic-strudel-af4df6.netlify.app/" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=3D+Apple+Website" alt="3D Apple Website"/>
+<img src="https://shamshad.ermks.in/images/3d_apple_promo.png" alt="3D Apple Website"/>
 </a>
 <br><br>
 <p><strong>🎨 Immersive 3D Experience</strong></p>
@@ -160,7 +160,7 @@ const shamshad = {
 <h3 align="center">🤖 AI Trip Planner</h3>
 <div align="center">  
 <a href="https://ai-trip-planner-alpha.vercel.app/" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=AI+Trip+Planner" alt="AI Trip Planner"/>
+<img src="https://shamshad.ermks.in/images/AI_trip_planner.png" alt="AI Trip Planner"/>
 </a>
 <br><br>
 <p><strong>🧠 AI-Powered Travel Planning</strong></p>
@@ -192,7 +192,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
 <a href="https://taskflow03.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+<img src="https://shamshad.ermks.in/images/taskflow.png" alt="Live Demo"/>
 </a>
 </div>
 </td>
@@ -200,7 +200,7 @@ const shamshad = {
 <h3 align="center">🎭 Ochi Website Clone</h3>
 <div align="center">  
 <a href="https://ochi-react-animated.netlify.app/" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Ochi+Clone" alt="Ochi Clone"/>
+<img src="https://shamshad.ermks.in/images/ochi_clone.png" alt="Ochi Clone"/>
 </a>
 <br><br>
 <p><strong>🎨 Premium Animation Experience</strong></p>
@@ -232,7 +232,7 @@ const shamshad = {
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 <a href="https://realtime-tracker-rck4.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+<img src="https://shamshad.ermks.in/images/location_tracker.png" alt="Live Demo"/>
 </a>
 </div>
 </td>
