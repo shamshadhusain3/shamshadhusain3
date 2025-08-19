@@ -32,7 +32,7 @@ const shamshad = {
     specialties: ["3D Web Development", "AI Integration", "React.js"],
     technologies: {
         frontEnd: ["React", "Next.js", "Three.js", "GSAP", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "Spring Boot"],
+        backEnd: ["Node.js", "Express", "PHP","Laravel"],
         databases: ["MongoDB", "MySQL", "Firebase"],
         ai: ["Gemini AI", "OpenAI"],
         tools: ["Git", "Linux", "VS Code"]
